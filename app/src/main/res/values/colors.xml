@@ -7,4 +7,10 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    // DarkMode
+    <color name="dark_primary">#303030</color>
+    <color name="dark_primary_dark">#000000</color>
+    <color name="dark_accent">#00ffff</color>
+    <color name="dark_background">#303030</color>
+    <color name="dark_text">#f1f1f1</color>
 </resources>
